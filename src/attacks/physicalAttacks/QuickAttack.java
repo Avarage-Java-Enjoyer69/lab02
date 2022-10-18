@@ -5,6 +5,6 @@ public class QuickAttack extends PhysicalMove{
 
     @Override
     protected String describe(){
-        return "Use QuickAttack";
+        return "Used QuickAttack";
     }
 }

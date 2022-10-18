@@ -1,3 +1,4 @@
+import pokemons.*;
 import ru.ifmo.se.pokemon.*;
 
 public class Battleground {
@@ -5,12 +6,12 @@ public class Battleground {
 
 
         Battle b = new Battle();
-        Pokemon p1 = new Pokemon("Key Keeper", 10);
-        Pokemon p2 = new Pokemon("Bururich", 15);
-        Pokemon p3 = new Pokemon("Burburich", 12);
-        Pokemon p4 = new Pokemon("Rediska", 5);
-        Pokemon p5 = new Pokemon("Valera", 20);
-        Pokemon p6 = new Pokemon("Handsome", 18);
+        Pokemon p1 = new Klefki("Key Keeper", 10);
+        Pokemon p2 = new Yanma("Bururich", 15);
+        Pokemon p3 = new Yanmega("Burburich", 12);
+        Pokemon p4 = new Oddish("Rediska", 5);
+        Pokemon p5 = new Gloom("Valera", 20);
+        Pokemon p6 = new Bellossom("Handsome", 18);
         b.addAlly(p1);
         b.addAlly(p3);
         b.addAlly(p5);

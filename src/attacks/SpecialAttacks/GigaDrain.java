@@ -14,6 +14,6 @@ public class GigaDrain extends SpecialMove {
 
     @Override
     protected String describe(){
-        return "Use Giga Drain";
+        return "Used Giga Drain";
     }
 }

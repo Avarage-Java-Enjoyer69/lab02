@@ -15,6 +15,7 @@ public class MegaDrain extends SpecialMove {
 
     @Override
     protected String describe(){
+
         return "Use Mega Drain";
     }
 }

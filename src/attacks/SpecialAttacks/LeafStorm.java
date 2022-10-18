@@ -13,6 +13,7 @@ public class LeafStorm extends SpecialMove {
 
     @Override
     protected String describe(){
-        return "Use Leaf Storm";
+
+        return "Used Leaf Storm";
     }
 }

@@ -12,7 +12,8 @@ public class Rest extends StatusMove {
     }
     @Override
     protected  String describe(){
-        return "Use Rest";
+
+        return "Used Rest";
     }
 
 }

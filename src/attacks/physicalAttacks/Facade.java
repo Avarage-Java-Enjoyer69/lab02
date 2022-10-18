@@ -14,6 +14,6 @@ public class Facade extends PhysicalMove {
     }
     @Override
     protected String describe(){
-        return "Use Facade";
+        return "Used Facade";
     }
 }

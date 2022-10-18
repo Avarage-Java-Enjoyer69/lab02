@@ -13,6 +13,7 @@ public class CalmMind extends StatusMove {
     }
     @Override
     protected String describe(){
-        return "Use CalmMind";
+
+        return "Used CalmMind";
     }
 }

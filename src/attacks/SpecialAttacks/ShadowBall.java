@@ -13,6 +13,7 @@ public class ShadowBall extends SpecialMove {
     }
     @Override
     protected String describe(){
-        return "Use Shadow Ball";
+
+        return "Used Shadow Ball";
     }
 }

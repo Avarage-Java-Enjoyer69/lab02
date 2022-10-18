@@ -17,6 +17,6 @@ public class Slash extends PhysicalMove {
 
     @Override
     protected String describe(){
-        return "Use Slash";
+        return "Used Slash";
     }
 }

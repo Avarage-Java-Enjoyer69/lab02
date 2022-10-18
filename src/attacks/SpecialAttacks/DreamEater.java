@@ -18,6 +18,6 @@ public class DreamEater extends SpecialMove {
     }
     @Override
     protected String describe(){
-        return "Use Dream Eater";
+        return "Used Dream Eater";
     }
 }
